@@ -1,0 +1,5 @@
+type these commands to compile and run the code
+
+as project2.s -o project2.o
+ld -o project2 project2.o
+./project2
